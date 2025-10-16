@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there (ʘ ͜ʖ ʘ)
 
 <!--
 **epochDVKHN/epochDVKHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🚧 Crafting a few private projects behind the scenes — ping me if you’d like a sneak peek!
